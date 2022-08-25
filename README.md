@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-To date, I’m a Unified Communications Technical Leader for a financial company and a **#CiscoChampion** 2021-2022.</br>
+To date, I’m a Senior NetDevOps Engineer for a financial company and a **#CiscoChampion** 2021-2022.</br>
 I have been working in enterprise IT since 2011. Over time, I built a solid expertise in multiple technical domains:
 
  - ☎️ UC&Collaboration
